@@ -27,7 +27,7 @@
 
 ### 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-theskybiz.vercel.app/api/spotify-playing)](https://open.spotify.com/user/theskybiz)
+[![Spotify](https://novatorem-git-main-theskybizs-projects.vercel.app)](https://open.spotify.com/user/theskybiz)
 
 *Updates in real-time! 🎧*
 
