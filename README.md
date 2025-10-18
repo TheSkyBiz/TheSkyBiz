@@ -1,5 +1,8 @@
-<!-- Clean, minimal profile with subtle visuals -->
+<!-- Minimal profile with subtle visuals and GIFs -->
 <div align="center">
+  <!-- Lightweight header banner (hosted on GitHub raw) -->
+  <img alt="header" height="160" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Banners/Minimalist/blue-wave.gif" />
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aakash+Biswas+%F0%9F%91%8B;AI%2FML+Enthusiast;Merit+Scholar+%40+IFHE;I+build+useful+things+with+LLMs" alt="Typing" />
 </div>
 
@@ -19,7 +22,7 @@
 - Like building products end‑to‑end: idea → prototype → ship
 
 ### Currently
-- Learning about life (and shipping anyway)
+- Learning about life
 - Prepping for hackathons and team play
 - Planning a mini LLM from scratch — learning paused (lazy mode on)
 
@@ -56,6 +59,12 @@
   </tr>
 </table>
 
+<!-- tiny, tasteful gif strip -->
+<p>
+  <img alt="lofi" height="20" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/lofi-headphones.gif" />
+  <img alt="typing" height="20" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/typing-cat.gif" />
+</p>
+
 </div>
 
 ---
@@ -87,12 +96,6 @@
 
 ---
 
-<div align="center">
-  <i>“Hard work is worthless for those that don't believe in themselves.” — Naruto Uzumaki</i>
-</div>
-
----
-
 ## Contact
 <div align="center">
 
@@ -108,4 +111,10 @@
 - Contributing to meaningful projects
 - Internship / job opportunities in AI/ML
 
+</div>
+
+---
+
+<div align="center">
+  <i>“Hard work is worthless for those that don't believe in themselves.” — Naruto Uzumaki</i>
 </div>
