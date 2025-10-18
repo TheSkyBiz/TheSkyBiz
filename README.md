@@ -1,4 +1,4 @@
-<!-- Clean, minimal profile without GIFs -->
+<!-- Clean, minimal profile with subtle visuals -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aakash+Biswas+%F0%9F%91%8B;AI%2FML+Enthusiast;Merit+Scholar+%40+IFHE;I+build+useful+things+with+LLMs" alt="Typing" />
 </div>
@@ -15,26 +15,35 @@
 
 ## About
 - Data Science & AI @ IFHE (CGPA 9.38/10)
-- Interests: LLMs, RAG, Multi‑Agent Systems
-- Build: practical AI apps with Streamlit + FastAPI
-- Motto: make it useful, make it elegant
+- Solve real problems with simple, reliable AI
+- Like building products end‑to‑end: idea → prototype → ship
 
 ### Currently
-- RAG pipelines with FAISS and MiniLM
-- YT transcript → semantic search → Q&A
-- Bhashini-based translation experiments
+- Learning about life (and shipping anyway)
+- Prepping for hackathons and team play
+- Planning a mini LLM from scratch — learning paused (lazy mode on)
 
 ---
 
 ## Skills
-```text
-Languages   : Python, SQL, JavaScript
-ML/DL       : TensorFlow, PyTorch, scikit-learn
-LLM Stack   : LangChain, Hugging Face, OpenAI, Gemini
-Data/Vector : SQLite, FAISS
-Web/Deploy  : Streamlit, FastAPI, Docker
-Tools       : Git, Linux, VS Code
-```
+
+### Languages
+- Python · SQL · C · Java (intro) · HTML · CSS
+
+### ML / DL
+- TensorFlow · PyTorch · scikit‑learn
+
+### LLM Stack
+- LangChain · Hugging Face · OpenAI · Gemini
+
+### Data / Vector
+- SQLite · FAISS
+
+### Web / Deploy
+- Streamlit · FastAPI
+
+### Currently Exploring
+- Django · Agentic frameworks · Better evals & prompting
 
 ---
 
@@ -65,11 +74,26 @@ Tools       : Git, Linux, VS Code
 
 ---
 
+## Quote
+<div align="center">
+  <i>“The future belongs to those who believe in the beauty of their dreams.”</i>
+</div>
+
+---
+
 ## Contact
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theskybiz141)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashjsrindia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSkyBiz)
+
+
+### Looking for
+- Professional connections
+- Hackathon collaborations
+- Meeting new people & learning experiences
+- Contributing to meaningful projects
+- Internship / job opportunities in AI/ML
 
 </div>
