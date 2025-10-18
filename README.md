@@ -1,15 +1,18 @@
-<!-- Subtle Anime Header -->
+<!-- Subtle Anime Header (webp fallback for speed) -->
 <div align="center">
-  <img alt="anime header" height="180" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Banners/Minimalist/blue-wave.gif" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Banners/Minimalist/blue-wave.webp" type="image/webp" />
+    <img alt="anime header" height="160" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Banners/Minimalist/blue-wave.gif" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aakash+Biswas+%F0%9F%91%8B;AI%2FML+Enthusiast;Merit+Scholar+%40+IFHE;Building+useful+things+with+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aakash+Biswas+%F0%9F%91%8B;AI%2FML+Enthusiast;Merit+Scholar+%40+IFHE;I+build+useful+things+with+LLMs" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=TheSkyBiz&style=flat-square&color=blue&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=TheSkyBiz&style=flat-square&color=blue&label=Views)
 [![Followers](https://img.shields.io/github/followers/TheSkyBiz?label=Followers&style=flat-square&color=blue)](https://github.com/TheSkyBiz?tab=followers)
 [![Stars](https://img.shields.io/github/stars/TheSkyBiz?label=Stars&style=flat-square&color=yellow)](https://github.com/TheSkyBiz?tab=repositories)
 
@@ -19,7 +22,11 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="anime coding loop" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Working/typing-loop-minimal.gif">
+<!-- Right-side compact anime typing loop; webp first, smaller width for faster paint -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Working/typing-loop-minimal.webp" type="image/webp" />
+  <img align="right" alt="anime coding loop" width="280" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Working/typing-loop-minimal.gif">
+</picture>
 
 - 🎓 Data Science & AI @ IFHE (CGPA 9.38/10)  
 - 🤖 Interests: LLMs, RAG, Multi‑Agent Systems  
@@ -47,15 +54,23 @@ ai_skills = {
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,fastapi,docker,linux,mysql,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,fastapi,linux,mysql,mongodb,vscode" />
 </p>
 
-<!-- Tiny Easter-Egg strip -->
+<!-- Tiny Easter-Egg strip; webp first and reduced count to cut requests -->
 <p align="center">
-  <img alt="lofi loop" height="24" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/lofi-headphones.gif" />
-  <img alt="type cat" height="24" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/typing-cat.gif" />
-  <img alt="coffee" height="24" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/coffee-loop.gif" />
-  <img alt="binary rain" height="24" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Lines/binary-line.gif" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/lofi-headphones.webp" type="image/webp" />
+    <img alt="lofi loop" height="22" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/lofi-headphones.gif" />
+  </picture>
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/typing-cat.webp" type="image/webp" />
+    <img alt="typing cat" height="22" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/typing-cat.gif" />
+  </picture>
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Lines/binary-line.webp" type="image/webp" />
+    <img alt="binary rain" height="22" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Lines/binary-line.gif" />
+  </picture>
 </p>
 
 ---
@@ -63,12 +78,12 @@ ai_skills = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSkyBiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkyBiz&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheSkyBiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkyBiz&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSkyBiz&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSkyBiz&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -116,7 +131,10 @@ ai_skills = {
 
 </div>
 
-<!-- Minimal footer banner -->
+<!-- Minimal footer banner; webp first -->
 <div align="center">
-  <img alt="footer wave" height="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Lines/gradient-line.gif" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Lines/gradient-line.webp" type="image/webp" />
+    <img alt="footer wave" height="50" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Lines/gradient-line.gif" />
+  </picture>
 </div>
