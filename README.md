@@ -1,7 +1,7 @@
 <!-- Minimal profile with subtle visuals and GIFs -->
 <div align="center">
-  <!-- Lightweight header banner (hosted on GitHub raw) -->
-  <img alt="header" height="160" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Banners/Minimalist/blue-wave.gif" />
+  <!-- Lightweight header banner (hosted in repo assets) -->
+  <img alt="header" height="160" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/octocat-1760829244941.png" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aakash+Biswas+%F0%9F%91%8B;AI%2FML+Enthusiast;Merit+Scholar+%40+IFHE;I+build+useful+things+with+LLMs" alt="Typing" />
 </div>
@@ -59,10 +59,10 @@
   </tr>
 </table>
 
-<!-- tiny, tasteful gif strip -->
+<!-- tiny, tasteful gif strip hosted in repo -->
 <p>
-  <img alt="lofi" height="20" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/lofi-headphones.gif" />
-  <img alt="typing" height="20" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Fun/typing-cat.gif" />
+  <img alt="lofi" height="22" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" />
+  <img alt="typing" height="22" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 </p>
 
 </div>
@@ -115,6 +115,9 @@
 
 ---
 
+<!-- single tasteful footer gif hosted in repo; large NUX octodex kept out to avoid heavy load -->
 <div align="center">
+  <img alt="lofi balcony" height="140" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" />
+  <br/>
   <i>“Hard work is worthless for those that don't believe in themselves.” — Naruto Uzumaki</i>
 </div>
