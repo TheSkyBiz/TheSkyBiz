@@ -20,7 +20,7 @@
 
 
 ## About
-- Data Science & AI @ IFHE (CGPA 9.38/10)
+- Data Science & AI @ IFHE, Hyderabad
 - Solve real problems with simple, reliable AI
 - Like building products end‑to‑end: idea → prototype → ship 
 
