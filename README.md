@@ -1,7 +1,9 @@
 <!-- Minimal profile with subtle visuals and GIFs -->
 <div align="center">
   <!-- Header banner from assets -->
-  <img alt="header" height="160" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/octocat-1760829244941.png" />
+  <img alt="retro" height="250" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
+  <img alt="balcony" height="250" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" />
+  
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aakash+Biswas+%F0%9F%91%8B;AI%2FML+Enthusiast;Merit+Scholar+%40+IFHE;I+build+useful+things+with+LLMs" alt="Typing" />
 </div>
@@ -16,10 +18,11 @@
 
 ---
 
+
 ## About
 - Data Science & AI @ IFHE (CGPA 9.38/10)
 - Solve real problems with simple, reliable AI
-- Like building products end‑to‑end: idea → prototype → ship
+- Like building products end‑to‑end: idea → prototype → ship 
 
 ### Currently
 - Learning about life
@@ -61,8 +64,7 @@
 
 <!-- GIF strip from assets -->
 <p>
-  <img alt="headphones" height="24" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" />
-  <img alt="typing cat" height="24" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
+  <img alt="headphones" height="200" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" />
 </p>
 
 </div>
@@ -83,25 +85,9 @@
 [![YouTube Summarizer](https://github-readme-stats.vercel.app/api/pin/?username=TheSkyBiz&repo=yt-video-summariser&theme=tokyonight&hide_border=true)](https://github.com/TheSkyBiz/yt-video-summariser)
 [![Multi-Agent AI](https://github-readme-stats.vercel.app/api/pin/?username=TheSkyBiz&repo=genai-multi-agent-experiments&theme=tokyonight&hide_border=true)](https://github.com/TheSkyBiz/genai-multi-agent-experiments)
 [![Pocket Polyglot](https://github-readme-stats.vercel.app/api/pin/?username=TheSkyBiz&repo=pocket-polyglot-megathon&theme=tokyonight&hide_border=true)](https://github.com/TheSkyBiz/pocket-polyglot-megathon)
+<img alt="typing cat" height="120" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 
 </div>
-
----
-
-## Gallery
-<div align="center">
-
-<!-- Mid-size fun GIFs -->
-<img alt="balcony" height="160" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" />
-<img alt="dev loop" height="140" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
-<img alt="retro" height="140" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
-<img alt="spark" height="140" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
-<!-- Note: NUX_Octodex.gif is ~6MB; linking below to avoid slow loads -->
-
-</div>
-
-> Full-size Octodex: https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/NUX_Octodex.gif
 
 ---
 
@@ -134,4 +120,8 @@
 
 <div align="center">
   <i>“Hard work is worthless for those that don't believe in themselves.” — Naruto Uzumaki</i>
+  <br><br>
+  <img alt="spark" height="250" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
+
+
