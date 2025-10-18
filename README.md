@@ -27,23 +27,36 @@
 
 ## Skills
 
-### Languages
-- Python · SQL · C · Java (intro) · HTML · CSS
+<div align="center">
 
-### ML / DL
-- TensorFlow · PyTorch · scikit‑learn
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python · SQL · C · Java (intro) · HTML · CSS</td>
+  </tr>
+  <tr>
+    <td><b>ML / DL</b></td>
+    <td>TensorFlow · PyTorch · scikit‑learn</td>
+  </tr>
+  <tr>
+    <td><b>LLM Stack</b></td>
+    <td>LangChain · Hugging Face · OpenAI · Gemini</td>
+  </tr>
+  <tr>
+    <td><b>Data / Vector</b></td>
+    <td>SQLite · FAISS</td>
+  </tr>
+  <tr>
+    <td><b>Web / Deploy</b></td>
+    <td>Streamlit · FastAPI</td>
+  </tr>
+  <tr>
+    <td><b>Currently Exploring</b></td>
+    <td>Django · Agentic frameworks · Better evals & prompting</td>
+  </tr>
+</table>
 
-### LLM Stack
-- LangChain · Hugging Face · OpenAI · Gemini
-
-### Data / Vector
-- SQLite · FAISS
-
-### Web / Deploy
-- Streamlit · FastAPI
-
-### Currently Exploring
-- Django · Agentic frameworks · Better evals & prompting
+</div>
 
 ---
 
@@ -74,9 +87,8 @@
 
 ---
 
-## Quote
 <div align="center">
-  <i>“The future belongs to those who believe in the beauty of their dreams.”</i>
+  <i>“Hard work is worthless for those that don't believe in themselves.” — Naruto Uzumaki</i>
 </div>
 
 ---
