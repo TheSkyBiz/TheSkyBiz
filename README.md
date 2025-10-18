@@ -42,7 +42,7 @@ ai_skills = {
   "ml": ["TensorFlow", "PyTorch", "scikit-learn"],
   "llm": ["LangChain", "Hugging Face", "OpenAI", "Gemini"],
   "vector": ["FAISS"],
-  "deploy": ["Streamlit", "FastAPI", "Docker"]
+  "deploy": ["Streamlit", "FastAPI"]
 }
 ```
 
