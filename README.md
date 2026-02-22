@@ -1,48 +1,49 @@
 # Aakash Biswas
 
-Machine Learning Systems | LLM Routing | Reliability & Evaluation  
+ML Systems Engineering | Adaptive LLM Routing | Model Reliability  
 
-I build adaptive AI systems focused on confidence, calibration, and cost–accuracy tradeoffs between small and large language models.
-I love getting my hands dirty in this ever changing world of AI.
+I work on adaptive AI systems that study confidence estimation, calibration, and cost–accuracy tradeoffs between small and large language models.
 
 ---
 
-## About
+## Research Interests
 
-Senior Year College Undergrad  
-
-I enjoy designing systems end-to-end — from research idea to working prototype.  
-Currently working on adaptive routing between small and large language models, studying confidence signals and failure behavior in transformers.
+- Adaptive routing between small and large language models  
+- Confidence estimation and uncertainty-aware inference  
+- Calibration and overconfidence analysis in transformers  
+- Failure mode analysis in NLP systems  
+- Efficient inference under resource constraints  
 
 ---
 
 ## Selected Work
 
 ### Adaptive LLM Router  
-Dynamic escalation between small and large models using uncertainty heuristics and performance benchmarking.
+A task-adaptive routing framework that dynamically escalates queries between small and large models using uncertainty heuristics and systematic cost–accuracy benchmarking.
 
 ### Confidence–Correctness Analyzer  
-Quantitative reliability study measuring ECE, overconfidence rate, and temperature scaling behavior.
+An empirical reliability study measuring calibration error (ECE), overconfidence rates, and temperature scaling effects across transformer models.
 
 ### Early-Warning Financial Stress System  
-Interpretable classical ML pipeline for time-aware risk prediction.
+An interpretable classical ML pipeline for time-aware financial risk prediction with lead-time evaluation.
 
-More in pinned repositories.
+More details in pinned repositories.
 
 ---
 
 ## Technical Stack
 
-**Core ML**: PyTorch · HuggingFace · scikit-learn  
-**LLM Systems**: Ollama · Transformers · Prompt Engineering  
-**Data & Infra**: Pandas · NumPy · SQLite · FAISS  
-**Apps**: Streamlit · FastAPI 
+Core ML — PyTorch · HuggingFace · scikit-learn  
+LLM Systems — Ollama · Transformers · Prompt Engineering  
+Evaluation — Calibration Metrics · Reliability Analysis  
+Data & Infra — Pandas · NumPy · SQLite · FAISS  
+Applications — Streamlit · FastAPI  
 
 ---
 
-## Beyond Systems
+## Beyond Research
 
-Outside machine learning, I follow Formula 1 closely, watch football, play competitive and story-driven games, unwind with music, and occasionally revisit anime classics.
+Outside machine learning, I follow Formula 1 strategy, watch football, play competitive and narrative-driven games, unwind with music, and occasionally revisit anime.
 
 ---
 
@@ -50,3 +51,7 @@ Outside machine learning, I follow Formula 1 closely, watch football, play compe
 
 LinkedIn: https://linkedin.com/in/theskybiz141  
 Email: aakashjsrindia@gmail.com  
+
+---
+
+Precision matters — whether in model calibration or a last-lap overtake.
