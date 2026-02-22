@@ -43,7 +43,7 @@ Applications — Streamlit · FastAPI
 
 ## Beyond Research
 
-Outside machine learning, I follow Formula 1 strategy, watch football, play competitive and narrative-driven games, unwind with music, and occasionally revisit anime.
+Outside machine learning, I follow Formula 1, watch football, play competitive and narrative-driven games, unwind with music, and occasionally revisit anime.
 
 ---
 
