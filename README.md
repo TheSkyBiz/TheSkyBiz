@@ -1,127 +1,54 @@
-<!-- Minimal profile with subtle visuals and GIFs -->
-<div align="center">
-  <!-- Header banner from assets -->
-  <img alt="retro" height="250" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
-  <img alt="balcony" height="250" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" />
-  
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aakash+Biswas+%F0%9F%91%8B;AI%2FML+Enthusiast;Merit+Scholar+%40+IFHE;I+build+useful+things+with+LLMs" alt="Typing" />
-</div>
+# Aakash Biswas
 
-<div align="center">
+Machine Learning Systems | LLM Routing | Reliability & Evaluation  
 
-![Views](https://komarev.com/ghpvc/?username=TheSkyBiz&style=flat-square&color=blue&label=Views)
-[![Followers](https://img.shields.io/github/followers/TheSkyBiz?label=Followers&style=flat-square&color=blue)](https://github.com/TheSkyBiz?tab=followers)
-[![Stars](https://img.shields.io/github/stars/TheSkyBiz?label=Stars&style=flat-square&color=yellow)](https://github.com/TheSkyBiz?tab=repositories)
-
-</div>
+I build adaptive AI systems focused on confidence, calibration, and cost–accuracy tradeoffs between small and large language models.
+I love getting my hands dirty in this ever changing world of AI.
 
 ---
-
 
 ## About
-- Data Science & AI @ IFHE, Hyderabad
-- Solve real problems with simple, reliable AI
-- Like building products end‑to‑end: idea → prototype → ship 
 
-### Currently
-- Learning about life
-- Prepping for hackathons and team play
-- Planning a mini LLM from scratch — learning paused (lazy mode on)
+Senior Year College Undergrad  
+
+I enjoy designing systems end-to-end — from research idea to working prototype.  
+Currently working on adaptive routing between small and large language models, studying confidence signals and failure behavior in transformers.
 
 ---
 
-## Skills
+## Selected Work
 
-<div align="center">
+### Adaptive LLM Router  
+Dynamic escalation between small and large models using uncertainty heuristics and performance benchmarking.
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python · SQL · C · Java (intro) · HTML · CSS</td>
-  </tr>
-  <tr>
-    <td><b>ML / DL</b></td>
-    <td>TensorFlow · PyTorch · scikit‑learn</td>
-  </tr>
-  <tr>
-    <td><b>LLM Stack</b></td>
-    <td>LangChain · Hugging Face · OpenAI · Gemini</td>
-  </tr>
-  <tr>
-    <td><b>Data / Vector</b></td>
-    <td>SQLite · FAISS</td>
-  </tr>
-  <tr>
-    <td><b>Web / Deploy</b></td>
-    <td>Streamlit · FastAPI</td>
-  </tr>
-  <tr>
-    <td><b>Currently Exploring</b></td>
-    <td>Django · Agentic frameworks · Better evals & prompting</td>
-  </tr>
-</table>
+### Confidence–Correctness Analyzer  
+Quantitative reliability study measuring ECE, overconfidence rate, and temperature scaling behavior.
 
-<!-- GIF strip from assets -->
-<p>
-  <img alt="headphones" height="200" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" />
-</p>
+### Early-Warning Financial Stress System  
+Interpretable classical ML pipeline for time-aware risk prediction.
 
-</div>
+More in pinned repositories.
 
 ---
 
-## Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheSkyBiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkyBiz&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+## Technical Stack
+
+**Core ML**: PyTorch · HuggingFace · scikit-learn  
+**LLM Systems**: Ollama · Transformers · Prompt Engineering  
+**Data & Infra**: Pandas · NumPy · SQLite · FAISS  
+**Apps**: Streamlit · FastAPI 
 
 ---
 
-## Projects
-<div align="center">
+## Beyond Systems
 
-[![YouTube Summarizer](https://github-readme-stats.vercel.app/api/pin/?username=TheSkyBiz&repo=yt-video-summariser&theme=tokyonight&hide_border=true)](https://github.com/TheSkyBiz/yt-video-summariser)
-[![Multi-Agent AI](https://github-readme-stats.vercel.app/api/pin/?username=TheSkyBiz&repo=genai-multi-agent-experiments&theme=tokyonight&hide_border=true)](https://github.com/TheSkyBiz/genai-multi-agent-experiments)
-[![Pocket Polyglot](https://github-readme-stats.vercel.app/api/pin/?username=TheSkyBiz&repo=pocket-polyglot-megathon&theme=tokyonight&hide_border=true)](https://github.com/TheSkyBiz/pocket-polyglot-megathon)
-<img alt="typing cat" height="120" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
-
-</div>
+Outside machine learning, I follow Formula 1 closely, watch football, play competitive and story-driven games, unwind with music, and occasionally revisit anime classics.
 
 ---
 
-## Achievements
-- Merit Scholarship (Top performance)
-- SIH — Team Lead & Shortlisted
-- NPTEL Elite — Responsible AI Systems
-- AICTE — LLMs, IIT‑H ML Summer Training, IIT‑G Time Series
+## Connect
 
----
+LinkedIn: https://linkedin.com/in/theskybiz141  
+Email: aakashjsrindia@gmail.com  
 
-## Contact
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theskybiz141)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashjsrindia@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSkyBiz)
-
-
-### Looking for
-- Professional connections
-- Hackathon collaborations
-- Meeting new people & learning experiences
-- Contributing to meaningful projects
-- Internship / job opportunities in AI/ML
-
-</div>
-
----
-
-<div align="center">
-  <i>“Hard work is worthless for those that don't believe in themselves.” — Naruto Uzumaki</i>
-  <br><br>
-  <img alt="spark" height="250" src="https://raw.githubusercontent.com/TheSkyBiz/TheSkyBiz/main/assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</div>
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSkyBiz&show_icons=true&hide_border=true)
