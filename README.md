@@ -50,5 +50,3 @@ Outside machine learning, I follow Formula 1 closely, watch football, play compe
 
 LinkedIn: https://linkedin.com/in/theskybiz141  
 Email: aakashjsrindia@gmail.com  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSkyBiz&show_icons=true&hide_border=true)
