@@ -1,22 +1,24 @@
-# Aakash Biswas
+<h1 align="center">Aakash Biswas</h1>
 
-**ML Systems Engineering | Adaptive LLM Routing | Model Reliability**
+<p align="center">
+  <b>ML Systems Engineering • Adaptive LLM Routing • Model Reliability</b>
+</p>
 
-Focused on building AI systems that work in real-world settings — not just benchmarks.
-
-I work on adaptive AI systems exploring confidence estimation, calibration, and cost–accuracy trade-offs between small and large language models.
+<p align="center">
+  Building AI systems that work in <b>real-world settings</b> — not just benchmarks.
+</p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I’m Working On
 
-- **Adaptive LLM Routing**  
+- 🔹 **Adaptive LLM Routing**  
   Dynamically routing queries between small and large models using uncertainty signals  
 
-- **LLM Evaluation & Calibration**  
+- 🔹 **LLM Evaluation & Calibration**  
   Studying confidence–accuracy mismatch and improving model reliability  
 
-- **Retrieval-Augmented Systems (RAG)**  
+- 🔹 **Retrieval-Augmented Systems (RAG)**  
   Building structured pipelines for real-world data querying  
 
 ---
@@ -24,44 +26,50 @@ I work on adaptive AI systems exploring confidence estimation, calibration, and 
 ## 🧠 Research Interests
 
 - Adaptive routing between small and large language models  
-- Confidence estimation and uncertainty-aware inference  
-- Calibration and overconfidence analysis in transformers  
+- Confidence estimation & uncertainty-aware inference  
+- Calibration and overconfidence in transformers  
 - Failure mode analysis in NLP systems  
-- Efficient inference under resource constraints  
+- Efficient inference under real-world constraints  
 
 ---
 
 ## 📌 Selected Work
 
 ### 🔹 Adaptive LLM Router  
-A task-adaptive routing framework that dynamically escalates queries between small and large models using uncertainty heuristics and cost–accuracy benchmarking.
+Task-adaptive routing system that escalates queries based on uncertainty signals and cost–accuracy trade-offs  
 
 ### 🔹 Confidence–Correctness Analyzer  
-An empirical study measuring calibration error (ECE), overconfidence, and temperature scaling effects across transformer models.
+Empirical study on calibration error (ECE), overconfidence, and temperature scaling across transformer models  
 
 ### 🔹 Retrieval-Augmented Text-to-SQL System  
-A RAG-based pipeline enabling natural language querying over structured datasets using embeddings, FAISS, and LLMs.
+Natural language → SQL pipeline using embeddings, FAISS, and LLMs for structured datasets  
 
-### 🔹 Early-Warning Financial Stress System  
-A classical ML pipeline for multi-horizon financial risk prediction with temporal evaluation.
-
----
-
-## 🔧 Technical Stack
-
-**Core ML** — PyTorch · HuggingFace · scikit-learn  
-**LLM Systems** — Transformers · Ollama · Prompt Engineering · LoRA  
-**Evaluation** — Calibration Metrics · Reliability Analysis · ECE  
-**Data & Infra** — Pandas · NumPy · SQLite · FAISS  
-**Applications** — FastAPI · Streamlit  
+### 🔹 Financial Distress Prediction System  
+Multi-horizon ML pipeline for financial risk prediction using large-scale firm data  
 
 ---
 
-## 📫 Connect
+## ⚙️ Tech Stack
 
-- 💼 LinkedIn: https://linkedin.com/in/theskybiz141  
-- 📧 Email: aakashjsrindia@gmail.com  
+<p>
+<b>Core ML:</b> PyTorch · HuggingFace · scikit-learn <br>
+<b>LLM Systems:</b> Transformers · Ollama · Prompt Engineering · LoRA <br>
+<b>Evaluation:</b> Calibration Metrics · Reliability Analysis · ECE <br>
+<b>Data & Infra:</b> Pandas · NumPy · SQLite · FAISS <br>
+<b>Applications:</b> FastAPI · Streamlit
+</p>
 
 ---
 
-*Precision matters — whether in model calibration or a last-lap overtake.*
+## 🌐 Connect
+
+<p>
+💼 <a href="https://linkedin.com/in/theskybiz141">LinkedIn</a> <br>
+📧 aakashjsrindia@gmail.com
+</p>
+
+---
+
+<p align="center">
+  <i>Precision matters — whether in model calibration or a last-lap overtake.</i>
+</p>
