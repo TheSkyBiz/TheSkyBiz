@@ -1,67 +1,74 @@
-<h1 align="center">Aakash Biswas</h1>
+<h1 align="center">Hey, I'm Aakash 👋</h1>
 
 <p align="center">
-  <b>ML Systems Engineering • Adaptive LLM Routing • Model Reliability</b>
+  <b>Software Engineer (AI/ML) • LLM Systems • Reliability • RAG</b>
 </p>
 
 <p align="center">
-  Building AI systems that work in <b>real-world settings</b> — not just benchmarks.
+  I build AI systems that actually work in the real world ⚙️  
+  (not just on benchmarks)
 </p>
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I'm Doing Right Now
 
-- 🔹 **Adaptive LLM Routing**  
-  Dynamically routing queries between small and large models using uncertainty signals  
-
-- 🔹 **LLM Evaluation & Calibration**  
-  Studying confidence–accuracy mismatch and improving model reliability  
-
-- 🔹 **Retrieval-Augmented Systems (RAG)**  
-  Building structured pipelines for real-world data querying  
+- 🧠 Building a **Confidence-Guided LLM Routing System** (Thesis)  
+- ⚙️ Learning **System Design, APIs, FastAPI, Docker**  
+- 📊 Exploring **LLM Evaluation, Calibration & Reliability**  
+- 💻 Practicing **DSA + Software Engineering fundamentals**  
 
 ---
 
-## 🧠 Research Interests
+## 🧩 What I've Built
 
-- Adaptive routing between small and large language models  
-- Confidence estimation & uncertainty-aware inference  
-- Calibration and overconfidence in transformers  
-- Failure mode analysis in NLP systems  
-- Efficient inference under real-world constraints  
+- 🔹 **LLM Routing System**  
+  → Dynamic routing between small & large models using uncertainty  
 
----
+- 🔹 **Text-to-SQL (RAG System)**  
+  → Natural language → SQL using FAISS + FastAPI  
 
-## 📌 Selected Work
+- 🔹 **LLM Calibration & Reliability Analysis**  
+  → Fixing confidence–accuracy mismatch (ECE, temp scaling)  
 
-### 🔹 Adaptive LLM Router  
-Task-adaptive routing system that escalates queries based on uncertainty signals and cost–accuracy trade-offs  
+- 🔹 **Adversarial LLM Evaluation**  
+  → Testing robustness & persona drift in language models  
 
-### 🔹 Confidence–Correctness Analyzer  
-Empirical study on calibration error (ECE), overconfidence, and temperature scaling across transformer models  
-
-### 🔹 Retrieval-Augmented Text-to-SQL System  
-Natural language → SQL pipeline using embeddings, FAISS, and LLMs for structured datasets  
-
-### 🔹 Financial Distress Prediction System  
-Multi-horizon ML pipeline for financial risk prediction using large-scale firm data  
+- 🔹 **Financial Risk Prediction System**  
+  → ML pipeline with ROC-AUC up to 0.97  
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p>
-<b>Core ML:</b> PyTorch · HuggingFace · scikit-learn <br>
-<b>LLM Systems:</b> Transformers · Ollama · Prompt Engineering · LoRA <br>
-<b>Evaluation:</b> Calibration Metrics · Reliability Analysis · ECE <br>
-<b>Data & Infra:</b> Pandas · NumPy · SQLite · FAISS <br>
-<b>Applications:</b> FastAPI · Streamlit
-</p>
+**Languages:** Python  
+**ML/DL:** PyTorch · Transformers · scikit-learn  
+**LLM Systems:** RAG · Prompt Engineering · LoRA  
+**Backend:** FastAPI · REST APIs  
+**Infra:** FAISS · SQLite · (learning Docker 🐳)  
+**Data:** Pandas · NumPy  
 
 ---
 
-## 🌐 Connect
+## 🧠 What Interests Me
+
+- LLM Systems & Multi-model Architectures  
+- Model Reliability & Failure Analysis  
+- Cost vs Performance Trade-offs in AI  
+- Building real-world ML systems end-to-end  
+
+---
+
+## 🎮 Beyond Code
+
+- 🏎️ Formula 1 enthusiast (race weekends > everything)  
+- ⚽ Football buff  
+- 🎮 Competitive & story-driven games  
+- 🎧 Music to reset the brain  
+
+---
+
+## 🌐 Connect With Me
 
 <p>
 💼 <a href="https://linkedin.com/in/theskybiz141">LinkedIn</a> <br>
