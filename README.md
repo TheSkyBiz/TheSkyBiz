@@ -1,12 +1,27 @@
 # Aakash Biswas
 
-ML Systems Engineering | Adaptive LLM Routing | Model Reliability  
+**ML Systems Engineering | Adaptive LLM Routing | Model Reliability**
 
-I work on adaptive AI systems that study confidence estimation, calibration, and cost–accuracy tradeoffs between small and large language models.
+Focused on building AI systems that work in real-world settings — not just benchmarks.
+
+I work on adaptive AI systems exploring confidence estimation, calibration, and cost–accuracy trade-offs between small and large language models.
 
 ---
 
-## Research Interests
+## 🚀 Current Focus
+
+- **Adaptive LLM Routing**  
+  Dynamically routing queries between small and large models using uncertainty signals  
+
+- **LLM Evaluation & Calibration**  
+  Studying confidence–accuracy mismatch and improving model reliability  
+
+- **Retrieval-Augmented Systems (RAG)**  
+  Building structured pipelines for real-world data querying  
+
+---
+
+## 🧠 Research Interests
 
 - Adaptive routing between small and large language models  
 - Confidence estimation and uncertainty-aware inference  
@@ -16,42 +31,37 @@ I work on adaptive AI systems that study confidence estimation, calibration, and
 
 ---
 
-## Selected Work
+## 📌 Selected Work
 
-### Adaptive LLM Router  
-A task-adaptive routing framework that dynamically escalates queries between small and large models using uncertainty heuristics and systematic cost–accuracy benchmarking.
+### 🔹 Adaptive LLM Router  
+A task-adaptive routing framework that dynamically escalates queries between small and large models using uncertainty heuristics and cost–accuracy benchmarking.
 
-### Confidence–Correctness Analyzer  
-An empirical reliability study measuring calibration error (ECE), overconfidence rates, and temperature scaling effects across transformer models.
+### 🔹 Confidence–Correctness Analyzer  
+An empirical study measuring calibration error (ECE), overconfidence, and temperature scaling effects across transformer models.
 
-### Early-Warning Financial Stress System  
-An interpretable classical ML pipeline for time-aware financial risk prediction with lead-time evaluation.
+### 🔹 Retrieval-Augmented Text-to-SQL System  
+A RAG-based pipeline enabling natural language querying over structured datasets using embeddings, FAISS, and LLMs.
 
-More details in pinned repositories.
-
----
-
-## Technical Stack
-
-Core ML — PyTorch · HuggingFace · scikit-learn  
-LLM Systems — Ollama · Transformers · Prompt Engineering  
-Evaluation — Calibration Metrics · Reliability Analysis  
-Data & Infra — Pandas · NumPy · SQLite · FAISS  
-Applications — Streamlit · FastAPI  
+### 🔹 Early-Warning Financial Stress System  
+A classical ML pipeline for multi-horizon financial risk prediction with temporal evaluation.
 
 ---
 
-## Beyond Research
+## 🔧 Technical Stack
 
-Outside machine learning, I follow Formula 1, watch football, play competitive and narrative-driven games, unwind with music, and occasionally revisit anime.
-
----
-
-## Connect
-
-LinkedIn: https://linkedin.com/in/theskybiz141  
-Email: aakashjsrindia@gmail.com  
+**Core ML** — PyTorch · HuggingFace · scikit-learn  
+**LLM Systems** — Transformers · Ollama · Prompt Engineering · LoRA  
+**Evaluation** — Calibration Metrics · Reliability Analysis · ECE  
+**Data & Infra** — Pandas · NumPy · SQLite · FAISS  
+**Applications** — FastAPI · Streamlit  
 
 ---
 
-Precision matters — whether in model calibration or a last-lap overtake.
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/theskybiz141  
+- 📧 Email: aakashjsrindia@gmail.com  
+
+---
+
+*Precision matters — whether in model calibration or a last-lap overtake.*
